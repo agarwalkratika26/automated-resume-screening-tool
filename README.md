@@ -4,19 +4,30 @@ A decoupled candidate evaluation platform featuring a FastAPI backend service an
 
 ---
 
-## Architecture and System Design
+## System Architecture and Visual Walkthrough
 
-The system separates document ingestion, lexical parsing, mathematical scoring, and web presentation into modular layers.
+The platform modularizes document ingestion, natural language processing, scoring algorithms, and presentation.
+
+### System Architecture
 
 ![System Architecture](images/architecture.svg)
 
-### Recruiter Interface
+### Recruiter Web Interface
 
-![Recruiter Dashboard](images/dashboard_overview.png)
-*Placeholder: Recruiter dashboard interface displaying job role selection and candidate upload controls.*
+#### 1. Job Role Selection and Configuration
+Recruiters select target roles, view mandatory skill requirements, and upload resumes for batch screening.
 
-![Candidate Ranking Scorecard](images/candidate_ranking.png)
-*Placeholder: Evaluated candidate scorecard showing multi-factor scoring breakdowns and fit classifications.*
+![Recruiter Dashboard Overview](images/web%20interface/Interface%201.jpeg)
+
+#### 2. Candidate Parsing and Skill Match Breakdown
+The dashboard processes uploaded resumes, displays matched versus missing competencies, and presents extracted candidate profiles.
+
+![Candidate Evaluation Interface](images/web%20interface/interface%202.jpeg)
+
+#### 3. Candidate Ranking Leaderboard
+Candidates are ranked based on composite multi-factor scores with clear fit classifications (Strong Match, Moderate Match, Weak Match).
+
+![Candidate Leaderboard](images/web%20interface/candidate%20leaderboard%202.jpeg)
 
 ---
 
@@ -69,8 +80,8 @@ Automated-Resume-Screening-Tool/
 │   └── tailwind.config.js           # Styling configuration
 ├── images/
 │   ├── architecture.svg             # System architecture diagram
-│   ├── dashboard_overview.png       # UI dashboard preview
-│   └── candidate_ranking.png        # Candidate ranking preview
+│   ├── web interface/               # Recruiter web application UI screenshots
+│   └── github ss/                   # Repository setup and configuration screenshots
 ├── outputs/
 │   ├── .gitkeep                     # Output directory placeholder
 │   └── sample_screening_report.json # Reference evaluation output
