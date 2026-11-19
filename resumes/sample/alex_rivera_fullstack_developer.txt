@@ -1,0 +1,36 @@
+ALEX RIVERA
+Synthetic Candidate Profile | Synthetic Email: alex.rivera.synthetic@example.com | Synthetic Phone: +1-555-0144
+Location: New York, NY | Portfolio: synthetic-alexrivera.dev | GitHub: github.com/synthetic-alexrivera
+
+PROFESSIONAL SUMMARY
+Versatile Full Stack Software Engineer with 4+ years of hands-on experience building performant, accessible web applications and robust cloud microservices. Specialized in TypeScript, React, Next.js, Node.js, and Python FastAPI backend integrations. Passionate about modern UI/UX design systems and developer tooling.
+
+TECHNICAL SKILLS
+- Frontend: React, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, Redux Toolkit, HTML5, CSS3/PostCSS
+- Backend: Node.js, Express, Python, FastAPI, RESTful APIs, WebSockets
+- Databases: PostgreSQL, Prisma ORM, MongoDB, Redis
+- DevOps & Cloud: Docker, AWS (EC2, S3, CloudFront), Vercel, GitHub Actions, CI/CD
+- Testing & Tools: Jest, React Testing Library, Cypress, Git, Postman, Figma
+
+WORK EXPERIENCE
+
+Full Stack Developer | Horizon Digital Agency (Synthetic Employer)
+January 2022 - Present | New York, NY
+- Built responsive recruiter analytics dashboard using Next.js 14 App Router, TypeScript, and TailwindCSS, improving load time by 38%.
+- Integrated stateful client components with asynchronous FastAPI and Node.js backend endpoints for high-speed search and filtering.
+- Implemented PostgreSQL database schema migrations and optimized queries using Prisma ORM.
+- Containerized development workflows using Docker Compose, reducing team onboarding time from 3 days to under 30 minutes.
+
+Frontend Engineer | BrightWave Media (Synthetic Employer)
+June 2020 - December 2021 | Boston, MA
+- Developed component library and interactive user portals using React, TypeScript, and styled-components.
+- Integrated RESTful APIs and managed complex UI application state with Redux Toolkit and React Query.
+- Conducted unit testing with Jest and end-to-end integration testing using Cypress, boosting coverage to 85%.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Boston University (Synthetic Academic Record) | 2016 - 2020
+
+PROJECTS
+- RecruiterOps: Open-source Next.js dashboard template with real-time candidate scorecard analytics.
+- FastTask API: Lightweight task orchestration microservice developed with Python FastAPI and PostgreSQL.

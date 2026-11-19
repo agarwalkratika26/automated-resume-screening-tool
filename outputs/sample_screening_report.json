@@ -1,0 +1,308 @@
+{
+  "job_id": "JD-001",
+  "job_title": "Senior AI / Machine Learning Engineer",
+  "target_skills": [
+    "Python",
+    "PyTorch",
+    "Machine Learning",
+    "Natural Language Processing",
+    "FastAPI",
+    "Docker"
+  ],
+  "screened_at": "2026-11-19T19:43:30.831495+00:00",
+  "total_screened": 5,
+  "rankings": [
+    {
+      "rank": 1,
+      "filename": "sarah_chen_senior_ai_engineer.txt",
+      "candidate_name": "Sarah Chen",
+      "total_score": 77.54,
+      "fit_category": "Strong Match",
+      "required_skill_score": 40.0,
+      "preferred_skill_score": 16.66,
+      "tfidf_similarity_score": 5.88,
+      "experience_score": 15.0,
+      "estimated_experience_years": 6.0,
+      "skill_breakdown": {
+        "matched_required_skills": [
+          "Python",
+          "PyTorch",
+          "Machine Learning",
+          "Natural Language Processing",
+          "FastAPI",
+          "Docker"
+        ],
+        "missing_required_skills": [],
+        "matched_preferred_skills": [
+          "Transformers",
+          "LangChain",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing_preferred_skills": [
+          "MLOps"
+        ],
+        "required_skill_match_ratio": 1.0,
+        "preferred_skill_match_ratio": 0.833
+      },
+      "extracted_skills": [
+        "AWS",
+        "Bash",
+        "C++",
+        "Celery",
+        "Deep Learning",
+        "Docker",
+        "FastAPI",
+        "Flask",
+        "GitHub Actions",
+        "GraphQL",
+        "Hugging Face",
+        "Kubernetes",
+        "LLMs",
+        "LangChain",
+        "MLflow",
+        "Machine Learning",
+        "MongoDB",
+        "Natural Language Processing",
+        "OpenCV",
+        "Pinecone",
+        "PostgreSQL",
+        "PyTorch",
+        "Python",
+        "RAG",
+        "REST APIs",
+        "Redis",
+        "SQL",
+        "Scikit-learn",
+        "Sentence-BERT",
+        "TensorFlow",
+        "Transformers",
+        "Weaviate",
+        "Word2Vec"
+      ]
+    },
+    {
+      "rank": 2,
+      "filename": "alex_rivera_fullstack_developer.txt",
+      "candidate_name": "Alex Rivera",
+      "total_score": 39.89,
+      "fit_category": "Weak Match",
+      "required_skill_score": 20.0,
+      "preferred_skill_score": 6.66,
+      "tfidf_similarity_score": 1.23,
+      "experience_score": 12.0,
+      "estimated_experience_years": 4.0,
+      "skill_breakdown": {
+        "matched_required_skills": [
+          "Python",
+          "FastAPI",
+          "Docker"
+        ],
+        "missing_required_skills": [
+          "PyTorch",
+          "Machine Learning",
+          "Natural Language Processing"
+        ],
+        "matched_preferred_skills": [
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing_preferred_skills": [
+          "Transformers",
+          "LangChain",
+          "Kubernetes",
+          "MLOps"
+        ],
+        "required_skill_match_ratio": 0.5,
+        "preferred_skill_match_ratio": 0.333
+      },
+      "extracted_skills": [
+        "AWS",
+        "CSS3",
+        "Docker",
+        "Express",
+        "FastAPI",
+        "Git",
+        "GitHub Actions",
+        "HTML5",
+        "JavaScript",
+        "MongoDB",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Prisma ORM",
+        "Python",
+        "REST APIs",
+        "React",
+        "Redis",
+        "Redux",
+        "TailwindCSS",
+        "TypeScript",
+        "WebSockets",
+        "styled-components"
+      ]
+    },
+    {
+      "rank": 3,
+      "filename": "marcus_vance_cloud_devops_engineer.txt",
+      "candidate_name": "Marcus Vance",
+      "total_score": 36.35,
+      "fit_category": "Weak Match",
+      "required_skill_score": 13.32,
+      "preferred_skill_score": 6.66,
+      "tfidf_similarity_score": 1.37,
+      "experience_score": 15.0,
+      "estimated_experience_years": 5.0,
+      "skill_breakdown": {
+        "matched_required_skills": [
+          "Python",
+          "Docker"
+        ],
+        "missing_required_skills": [
+          "PyTorch",
+          "Machine Learning",
+          "Natural Language Processing",
+          "FastAPI"
+        ],
+        "matched_preferred_skills": [
+          "Kubernetes",
+          "AWS"
+        ],
+        "missing_preferred_skills": [
+          "Transformers",
+          "LangChain",
+          "PostgreSQL",
+          "MLOps"
+        ],
+        "required_skill_match_ratio": 0.333,
+        "preferred_skill_match_ratio": 0.333
+      },
+      "extracted_skills": [
+        "AWS",
+        "Ansible",
+        "ArgoCD",
+        "Bash",
+        "Docker",
+        "GCP",
+        "GitHub Actions",
+        "Grafana",
+        "Helm",
+        "Kubernetes",
+        "Linux",
+        "Prometheus",
+        "Python",
+        "Terraform"
+      ]
+    },
+    {
+      "rank": 4,
+      "filename": "priya_sharma_data_scientist.txt",
+      "candidate_name": "Priya Sharma",
+      "total_score": 33.52,
+      "fit_category": "Weak Match",
+      "required_skill_score": 20.0,
+      "preferred_skill_score": 3.34,
+      "tfidf_similarity_score": 1.18,
+      "experience_score": 9.0,
+      "estimated_experience_years": 3.0,
+      "skill_breakdown": {
+        "matched_required_skills": [
+          "Python",
+          "Machine Learning",
+          "Docker"
+        ],
+        "missing_required_skills": [
+          "PyTorch",
+          "Natural Language Processing",
+          "FastAPI"
+        ],
+        "matched_preferred_skills": [
+          "PostgreSQL"
+        ],
+        "missing_preferred_skills": [
+          "Transformers",
+          "LangChain",
+          "Kubernetes",
+          "AWS",
+          "MLOps"
+        ],
+        "required_skill_match_ratio": 0.5,
+        "preferred_skill_match_ratio": 0.167
+      },
+      "extracted_skills": [
+        "Apache Airflow",
+        "Bash",
+        "BigQuery",
+        "Docker",
+        "Git",
+        "LightGBM",
+        "Linux",
+        "Machine Learning",
+        "NumPy",
+        "Pandas",
+        "PostgreSQL",
+        "Power BI",
+        "Python",
+        "R",
+        "SQL",
+        "SciPy",
+        "Scikit-learn",
+        "Statistics",
+        "Tableau",
+        "XGBoost"
+      ]
+    },
+    {
+      "rank": 5,
+      "filename": "elena_rostova_junior_python_developer.txt",
+      "candidate_name": "Elena Rostova",
+      "total_score": 32.48,
+      "fit_category": "Weak Match",
+      "required_skill_score": 13.32,
+      "preferred_skill_score": 3.34,
+      "tfidf_similarity_score": 0.82,
+      "experience_score": 15.0,
+      "estimated_experience_years": 7.0,
+      "skill_breakdown": {
+        "matched_required_skills": [
+          "Python",
+          "FastAPI"
+        ],
+        "missing_required_skills": [
+          "PyTorch",
+          "Machine Learning",
+          "Natural Language Processing",
+          "Docker"
+        ],
+        "matched_preferred_skills": [
+          "PostgreSQL"
+        ],
+        "missing_preferred_skills": [
+          "Transformers",
+          "LangChain",
+          "Kubernetes",
+          "AWS",
+          "MLOps"
+        ],
+        "required_skill_match_ratio": 0.333,
+        "preferred_skill_match_ratio": 0.167
+      },
+      "extracted_skills": [
+        "CSS3",
+        "FastAPI",
+        "Flask",
+        "Git",
+        "HTML5",
+        "JavaScript",
+        "Linux",
+        "Pandas",
+        "PostgreSQL",
+        "Python",
+        "REST APIs",
+        "SQL",
+        "SQLite"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+PRIYA SHARMA
+Synthetic Candidate Profile | Synthetic Email: priya.sharma.synthetic@example.com | Synthetic Phone: +1-555-0188
+Location: Seattle, WA | LinkedIn: linkedin.com/in/synthetic-priya-sharma
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3+ years of experience transforming complex datasets into predictive machine learning models and actionable business insights. Proficient in Python, SQL, Scikit-learn, statistical modeling, feature engineering, and data visualization. Experienced in cross-functional collaboration with product and analytics teams.
+
+TECHNICAL SKILLS
+- Programming & Analytics: Python, R, SQL (PostgreSQL, BigQuery), Bash
+- Machine Learning & Statistics: Scikit-learn, XGBoost, LightGBM, Statsmodels, A/B Testing, Hypothesis Testing
+- Data Manipulation & Visualization: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Tableau, Power BI
+- Workflow & Tooling: Jupyter, Git, Docker, Apache Airflow, Linux
+
+WORK EXPERIENCE
+
+Data Scientist | DataPulse Analytics (Synthetic Employer)
+August 2022 - Present | Seattle, WA
+- Built churn prediction model using XGBoost and Scikit-learn on a 2M-record user dataset, achieving an AUC-ROC of 0.89 and reducing customer attrition by 12%.
+- Designed and analyzed multi-variant A/B experiments for product feature launches, providing statistical significance evaluations to executive leadership.
+- Created automated ETL pipelines with Python and Apache Airflow to aggregate analytics metrics from transactional databases into BigQuery.
+- Built interactive Tableau dashboards monitoring daily operational KPIs for regional sales directors.
+
+Junior Data Analyst | MetricFlow Solutions (Synthetic Employer)
+July 2021 - July 2022 | Chicago, IL
+- Extracted and cleaned multi-source telemetry data using SQL and Pandas for marketing attribution reports.
+- Conducted exploratory data analysis (EDA) and generated statistical reports summarizing user behavior patterns.
+- Automated weekly performance reporting using Python scripts, saving the marketing team 6 hours weekly.
+
+EDUCATION
+Master of Science in Data Science & Analytics
+University of Washington (Synthetic Academic Record) | 2019 - 2021
+
+Bachelor of Science in Applied Mathematics and Statistics
+University of Illinois Urbana-Champaign (Synthetic Academic Record) | 2015 - 2019
+
+PUBLICATIONS & AWARDS
+- Author of technical blog series on Interpretable Machine Learning with SHAP values.

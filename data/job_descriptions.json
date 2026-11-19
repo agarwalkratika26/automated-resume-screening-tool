@@ -1,0 +1,74 @@
+[
+  {
+    "id": "JD-001",
+    "title": "Senior AI / Machine Learning Engineer",
+    "department": "Artificial Intelligence & Core Tech",
+    "experience_years_required": 5,
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "Natural Language Processing",
+      "FastAPI",
+      "Docker"
+    ],
+    "preferred_skills": [
+      "Transformers",
+      "LangChain",
+      "Kubernetes",
+      "AWS",
+      "PostgreSQL",
+      "MLOps"
+    ],
+    "education_level": "Bachelor's or Master's in Computer Science, Data Science, or related field",
+    "description": "We are seeking a Senior AI/ML Engineer to lead the architecture and deployment of large language model (LLM) services and production NLP pipelines. In this role, you will build resilient REST APIs using FastAPI, containerize workloads with Docker, and orchestrate scalable inference pipelines on AWS. The ideal candidate has deep expertise in PyTorch, NLP techniques, and modern generative AI frameworks such as LangChain and Hugging Face Transformers."
+  },
+  {
+    "id": "JD-002",
+    "title": "Full Stack Software Engineer (Next.js / Python)",
+    "department": "Product Engineering",
+    "experience_years_required": 3,
+    "required_skills": [
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Python",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "preferred_skills": [
+      "TailwindCSS",
+      "Docker",
+      "REST APIs",
+      "AWS",
+      "Git",
+      "Jest"
+    ],
+    "education_level": "Bachelor's in Computer Science or equivalent practical experience",
+    "description": "We are looking for a Full Stack Software Engineer to build intuitive, high-performance web applications. You will develop modern web interfaces using Next.js and TypeScript, paired with high-performance Python FastAPI backends. Strong proficiency in relational databases (PostgreSQL), component design with TailwindCSS, and cloud deployments is expected."
+  },
+  {
+    "id": "JD-003",
+    "title": "Data Scientist",
+    "department": "Data & Analytics",
+    "experience_years_required": 3,
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Scikit-learn",
+      "Pandas",
+      "Machine Learning",
+      "A/B Testing"
+    ],
+    "preferred_skills": [
+      "Tableau",
+      "BigQuery",
+      "XGBoost",
+      "Statistics",
+      "Docker",
+      "Airflow"
+    ],
+    "education_level": "Master's or Bachelor's in Statistics, Data Science, Applied Mathematics, or CS",
+    "description": "We are looking for an analytical Data Scientist to derive actionable insights and build predictive models across product initiatives. You will design rigorous A/B experiments, create production ML models with Scikit-learn and XGBoost, and build scalable analytics dashboards."
+  }
+]

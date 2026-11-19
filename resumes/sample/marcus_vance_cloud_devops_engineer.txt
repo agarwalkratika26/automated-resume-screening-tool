@@ -1,0 +1,37 @@
+MARCUS VANCE
+Synthetic Candidate Profile | Synthetic Email: marcus.vance.synthetic@example.com | Synthetic Phone: +1-555-0167
+Location: Austin, TX | GitHub: github.com/synthetic-marcusvance
+
+PROFESSIONAL SUMMARY
+Cloud Platform & DevOps Engineer with 5+ years of experience designing secure, resilient infrastructure-as-code (IaC), automated CI/CD deployment pipelines, and Kubernetes cluster management on AWS and GCP. Strong focus on reliability engineering, cost optimization, and observability.
+
+TECHNICAL SKILLS
+- Cloud Platforms: AWS (EKS, IAM, VPC, S3, CloudWatch), Google Cloud Platform (GCP)
+- Infrastructure as Code: Terraform, Terragrunt, CloudFormation, Ansible
+- Containers & Orchestration: Docker, Kubernetes, Helm, ArgoCD
+- CI/CD & Automation: GitHub Actions, GitLab CI, Jenkins, Python, Bash
+- Observability & Monitoring: Prometheus, Grafana, ELK Stack, Datadog
+- Security & Networking: HashiCorp Vault, TLS/SSL, Open Policy Agent, TCP/IP, DNS
+
+WORK EXPERIENCE
+
+Senior DevOps Engineer | CloudScale Systems (Synthetic Employer)
+November 2021 - Present | Austin, TX
+- Designed and provisioned multi-region AWS infrastructure managing 80+ microservices using Terraform and Helm.
+- Engineered GitOps continuous deployment pipeline with ArgoCD and GitHub Actions, cutting release deployment duration from 45 minutes to 4 minutes.
+- Configured centralized observability stack with Prometheus and Grafana dashboards, decreasing MTTR (Mean Time to Resolution) by 35%.
+- Implemented automated AWS cost reduction policies saving \$120,000 annually without degrading performance.
+
+DevOps & Systems Administrator | StrataTech Networks (Synthetic Employer)
+May 2019 - October 2021 | Dallas, TX
+- Maintained Linux infrastructure across on-premise servers and AWS EC2 instances.
+- Standardized container builds with multi-stage Dockerfiles and security vulnerability scanning.
+- Automated system patch management and backups using Python and Bash scripts.
+
+EDUCATION
+Bachelor of Science in Information Technology
+Texas A&M University (Synthetic Academic Record) | 2015 - 2019
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Professional
+- Certified Kubernetes Administrator (CKA)

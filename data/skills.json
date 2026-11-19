@@ -1,0 +1,62 @@
+{
+  "categories": {
+    "Programming Languages": [
+      "Python", "TypeScript", "JavaScript", "SQL", "C++", "Java", "Go", "Rust", "R", "Bash", "HTML5", "CSS3"
+    ],
+    "Machine Learning & AI": [
+      "Machine Learning", "Deep Learning", "Natural Language Processing", "PyTorch", "TensorFlow",
+      "Scikit-learn", "Hugging Face", "Transformers", "LangChain", "OpenCV", "XGBoost", "LightGBM",
+      "RAG", "LLMs", "Sentence-BERT", "Word2Vec", "Computer Vision"
+    ],
+    "Web & Frontend Frameworks": [
+      "React", "Next.js", "TailwindCSS", "Redux", "HTML5", "CSS3", "styled-components", "Vue", "Angular"
+    ],
+    "Backend Frameworks & APIs": [
+      "FastAPI", "Flask", "Django", "Node.js", "Express", "REST APIs", "GraphQL", "WebSockets", "Celery"
+    ],
+    "Databases & Storage": [
+      "PostgreSQL", "MongoDB", "Redis", "Pinecone", "Weaviate", "BigQuery", "SQLite", "Prisma ORM"
+    ],
+    "Cloud & DevOps": [
+      "AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "GitHub Actions", "ArgoCD", "Helm",
+      "Prometheus", "Grafana", "MLflow", "GCP", "Linux", "Git", "Ansible"
+    ],
+    "Analytics & Data Science": [
+      "Pandas", "NumPy", "SciPy", "Tableau", "Power BI", "A/B Testing", "Statistics", "Apache Airflow"
+    ]
+  },
+  "aliases": {
+    "nlp": "Natural Language Processing",
+    "ml": "Machine Learning",
+    "dl": "Deep Learning",
+    "k8s": "Kubernetes",
+    "tf": "TensorFlow",
+    "postgres": "PostgreSQL",
+    "postgresql": "PostgreSQL",
+    "nextjs": "Next.js",
+    "next.js": "Next.js",
+    "reactjs": "React",
+    "react.js": "React",
+    "tailwind": "TailwindCSS",
+    "tailwindcss": "TailwindCSS",
+    "fastapi": "FastAPI",
+    "sklearn": "Scikit-learn",
+    "scikit learn": "Scikit-learn",
+    "scikit-learn": "Scikit-learn",
+    "aws": "AWS",
+    "ts": "TypeScript",
+    "js": "JavaScript",
+    "py": "Python",
+    "rest": "REST APIs",
+    "rest api": "REST APIs",
+    "rest apis": "REST APIs",
+    "restful apis": "REST APIs",
+    "huggingface": "Hugging Face",
+    "transformers": "Transformers",
+    "langchain": "LangChain",
+    "docker": "Docker",
+    "git": "Git",
+    "github actions": "GitHub Actions",
+    "ci/cd": "CI/CD"
+  }
+}

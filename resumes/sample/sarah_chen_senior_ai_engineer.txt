@@ -1,0 +1,40 @@
+SARAH CHEN
+Synthetic Candidate Profile | Synthetic Email: sarah.chen.synthetic@example.com | Synthetic Phone: +1-555-0192
+Location: San Francisco, CA | LinkedIn: linkedin.com/in/synthetic-sarah-chen | GitHub: github.com/synthetic-sarah-chen
+
+PROFESSIONAL SUMMARY
+Senior AI/ML Engineer with 6+ years of experience designing and deploying scalable deep learning systems, Natural Language Processing (NLP) pipelines, and generative AI microservices. Proven track record architecting LLM-driven applications, fine-tuning transformer architectures, and delivering low-latency production APIs with FastAPI and Docker on AWS.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++, Bash
+- Machine Learning & AI: PyTorch, TensorFlow, Hugging Face Transformers, LangChain, Scikit-learn, OpenCV
+- NLP & LLMs: Prompt Engineering, Fine-tuning, RAG (Retrieval Augmented Generation), Sentence-BERT, Word2Vec
+- Backend & APIs: FastAPI, Flask, REST APIs, GraphQL, Celery, Redis
+- Cloud & MLOps: AWS (SageMaker, S3, ECS, Lambda), Docker, Kubernetes, CI/CD, MLflow, Weights & Biases
+- Databases: PostgreSQL, Pinecone, Weaviate, MongoDB
+
+WORK EXPERIENCE
+
+Senior AI/ML Engineer | NovaTech Solutions (Synthetic Employer)
+March 2022 - Present | San Francisco, CA
+- Architected enterprise RAG conversational pipeline using LangChain, Hugging Face transformers, and Pinecone vector database, reducing customer query latency by 42%.
+- Built high-throughput asynchronous inference services using FastAPI and Docker, handling 15M+ monthly API calls with 99.95% uptime.
+- Fine-tuned open-source LLMs (Llama-3, Mistral) with PEFT/LoRA for domain-specific technical documentation summarization.
+- Orchestrated MLOps pipelines using MLflow and GitHub Actions on AWS Kubernetes (EKS).
+
+Machine Learning Engineer | Apex Data Labs (Synthetic Employer)
+July 2019 - February 2022 | Austin, TX
+- Developed text classification and named entity recognition (NER) models for automated document parsing using BERT and PyTorch.
+- Engineered automated data preprocessing and feature extraction pipelines processing 500GB+ tabular and unstructured text data.
+- Collaborated with software engineering teams to deploy microservices into production via Docker and Kubernetes.
+
+EDUCATION
+Master of Science in Computer Science (Artificial Intelligence Track)
+Stanford University (Synthetic Academic Record) | 2017 - 2019
+
+Bachelor of Science in Software Engineering
+University of California, Berkeley (Synthetic Academic Record) | 2013 - 2017
+
+CERTIFICATIONS & PROJECTS
+- AWS Certified Machine Learning - Specialty
+- Open Source: Contributor to open-source embedding evaluation benchmarks
