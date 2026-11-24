@@ -202,6 +202,16 @@ npm run dev
 
 Open `http://localhost:3000` in a web browser to access the recruiter dashboard.
 
+### Option C: Streamlit Web Application
+
+Launch the single-command interactive web interface:
+
+```bash
+streamlit run streamlit_app.py
+```
+
+Open `http://localhost:8501` to use the Streamlit application. This interface is also pre-configured for one-click deployment on Streamlit Community Cloud.
+
 ---
 
 ## Automated Test Suite
