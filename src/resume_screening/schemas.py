@@ -61,6 +61,11 @@ class CandidateScore(BaseModel):
     extracted_skills: List[str] = Field(default_factory=list)
 
     @property
+    def overall_score(self) -> float:
+        """Backward compatibility alias for total_score."""
+        return self.total_score
+
+    @property
     def semantic_similarity_score(self) -> float:
         """Backward compatibility alias for tfidf_similarity_score."""
         return self.tfidf_similarity_score

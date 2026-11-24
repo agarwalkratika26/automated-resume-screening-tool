@@ -213,17 +213,18 @@ if "screening_results" in st.session_state:
 
     # Summary Table
     rows = []
+    total_req_count = len(job_spec.required_skills)
     for c in results:
         rows.append(
             {
                 "Rank": c.rank,
                 "Candidate Name": c.candidate_name,
                 "Filename": c.filename,
-                "Overall Score (%)": c.overall_score,
+                "Total Score (%)": c.total_score,
                 "Fit Category": c.fit_category,
-                "Required Skills": f"{len(c.skill_breakdown.matched_required_skills)}/{len(c.skill_breakdown.all_required_skills)}",
-                "Est. Experience (Yrs)": c.experience_years or "N/A",
-                "TF-IDF Similarity (%)": round(c.tfidf_similarity * 100, 1),
+                "Required Skills": f"{len(c.skill_breakdown.matched_required_skills)}/{total_req_count}",
+                "Est. Experience (Yrs)": f"{c.estimated_experience_years:.1f}" if c.estimated_experience_years is not None else "N/A",
+                "TF-IDF Score (max 25)": c.tfidf_similarity_score,
             }
         )
     df_results = pd.DataFrame(rows)
@@ -233,7 +234,7 @@ if "screening_results" in st.session_state:
     # Detailed Candidate Breakdowns
     st.markdown("### Candidate Competency Breakdown")
     for c in results:
-        with st.expander(f"Rank {c.rank}: {c.candidate_name} ({c.fit_category} — {c.overall_score}%)"):
+        with st.expander(f"Rank {c.rank}: {c.candidate_name} ({c.fit_category} - {c.total_score}%)"):
             col_a, col_b = st.columns(2)
 
             with col_a:
@@ -257,10 +258,10 @@ if "screening_results" in st.session_state:
                     st.write("None detected")
 
                 st.markdown("**Scoring Factor Breakdown (100 pts max):**")
-                st.write(f"- Required Skills (max 40): **{c.scoring_factors.required_skills_score}**")
-                st.write(f"- Preferred Skills (max 20): **{c.scoring_factors.preferred_skills_score}**")
-                st.write(f"- TF-IDF Text Similarity (max 25): **{c.scoring_factors.tfidf_similarity_score}**")
-                st.write(f"- Experience Alignment (max 15): **{c.scoring_factors.experience_score}**")
+                st.write(f"- Required Skills (max 40): **{c.required_skill_score}**")
+                st.write(f"- Preferred Skills (max 20): **{c.preferred_skill_score}**")
+                st.write(f"- TF-IDF Text Similarity (max 25): **{c.tfidf_similarity_score}**")
+                st.write(f"- Experience Alignment (max 15): **{c.experience_score}**")
 
     # CSV Download
     csv_data = df_results.to_csv(index=False).encode("utf-8-sig")
