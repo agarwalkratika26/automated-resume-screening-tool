@@ -113,7 +113,7 @@ def parse_and_score(
     for idx, path in enumerate(files_to_process):
         text = DocumentExtractor.extract_text(str(path))
         clean_text = DocumentExtractor.clean_text(text)
-        cand_name = DocumentExtractor.extract_candidate_name_from_text(text, path.name)
+        cand_name = DocumentExtractor.extract_candidate_name(text, path.name)
         exp_years = DocumentExtractor.estimate_experience_years(text)
         skills = matcher.extract_skills_from_text(clean_text)
 

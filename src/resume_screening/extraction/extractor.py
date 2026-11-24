@@ -157,6 +157,9 @@ class DocumentExtractor:
 
         return "Candidate"
 
+    # Backward-compatible alias
+    extract_candidate_name_from_text = extract_candidate_name
+
     @staticmethod
     def estimate_experience_years(raw_text: str) -> Optional[float]:
         """Extracts estimated years of professional experience using regex heuristics.
